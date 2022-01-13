@@ -15,6 +15,17 @@
     }
   }
 
+  &-tags {
+    span {
+      background-color: red;
+      padding: 0.2rem 0.5rem;
+      background: rgba(0, 0, 0, 0.05);
+      border-radius: 5px;
+      color: $default-color;
+      text-decoration: none;
+    }
+  }
+
   &-pinned {
     color: $default-tint;
     font-family: $serif-secondary;
