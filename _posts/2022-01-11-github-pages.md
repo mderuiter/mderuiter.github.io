@@ -5,7 +5,7 @@ author: Milan de Ruiter
 tags: Jekyll GitHub 
 ---
 
-In previous article [A blog with Jekyll](/2022-01-12/a-blog-with-jekyll) we have learned how to make a blog and run it on your local machine. But, what is a blog when it is only accessible from your machine. 
+In previous article [A blog with Jekyll](/2022-01-10/a-blog-with-jekyll) we have learned how to make a blog and run it on your local machine. But, what is a blog when it is only accessible from your machine. 
 
 One way to make the blog accessible and put it online is to get a domain and upload your website. Another way is to make use of [Github Pages](https://pages.github.com).
 As the header on the Github pages indicates, it will host your website from your github repository and automatically updates it on each change.

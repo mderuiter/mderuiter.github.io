@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Intercepting requests with Charles Proxy (on iOS Simulator)
+title: Intercepting requests with Charles Proxy
 author: Milan de Ruiter
 tags: Charles Debugging Tool
 ---
 
 > Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. This includes requests, responses and the HTTP headers (which contain the cookies and caching information). 
 
-For iOS developers or QA engineers Charles can be used to view and modify all the traffic that the coming from the app, but also send to the app. It is in one of the main utility applications when debugging and fixing our network requests. 
+For iOS developers or QA engineers Charles can be used to view and modify all the traffic that the coming from the app, but also send to the app. It is in one of the main utility applications when debugging and fixing our network requests. Charles is working on iOS Simulators and on physical devices. I like to use the iOS Simulator, so I do not have to switch to another device. In this post we will talk about how to intercept requests on the iOS Simulator.
 
 ### How to setup Charles Proxy.
 The first thing you need to do is of course, to download Charles Proxy. Charles Proxy can be downloaded from [their website](https://www.charlesproxy.com/download). 
