@@ -14,7 +14,7 @@ As the header on the Github pages indicates, it will host your website from your
 ## Getting started
 
 To start with Github pages, you only need to have a github account. If you do not have one already, you can make a free account via their website.
-Once you have logged in to your Github account, you can make a new repository. When creating the repository, you have to have to make sure that the name of your repository is following the folliwng structure:
+Once you have logged in to your Github account, you can make a new repository. When creating the repository, you have to have to make sure that the name of your repository is following the following structure:
 ```
 <github-username>.github.io
 ```

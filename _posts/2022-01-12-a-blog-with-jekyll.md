@@ -46,7 +46,7 @@ If you are lazy - and since most of the developers are - it is good to know that
 ## Drafting a new post
 
 Since every template is build different, I will use Tale, the template I am using, as an example. With Tale drafting a new posts is just super simple. You only need to know how to write [Markdown](https://en.wikipedia.org/wiki/Markdown).
-In the filde structore of your project you will see a directory called *'_posts'*. This folder contains all the posts that are shown on your blog.
+In the file structure of your project you will see a directory called *'_posts'*. This folder contains all the posts that are shown on your blog.
 The posts are using specific naming convention (e.g. `2022-01-12-a-blog-with-jekyll.md`) that is used to display when the post is created, but also to filter your blog posts.
 
 For this specific post (`2022-01-12-a-blog-with-jekyll.md`) we start with the following header:
