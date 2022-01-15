@@ -2,7 +2,7 @@
 layout: post
 title: Speeding up your development workflow
 author: Milan de Ruiter
-tags: ["Architecture", "Coordinator", "Delegate", "Clean Swift", "Swift"]
+tags: ["Tools", "xcrun", "Alfred", "Git", "Xcode Templates", "Tips & Tricks"]
 ---
 
 The faster we write code, the faster our feature can be delivered, right? Well, I don’t agree with this statement as writing code faster can also introduce bugs that take you more time to investigate and solve. 
