@@ -5,11 +5,11 @@ author: Milan de Ruiter
 tags: ["Tools", "xcrun", "Alfred", "Git", "Xcode Templates", "Tips & Tricks"]
 ---
 
-The faster we write code, the faster our feature can be delivered, right? Well, I don’t agree with this statement as writing code faster can also introduce bugs that take you more time to investigate and solve. 
+The faster we write code, the faster we can ship our feature to our customers, right? Well, I don’t really agree with this statement as writing code faster can also increase the number of bugs that take you more time to investigate and solve. 
 
-So, how can you speed up your development process without having the chance you are going to introduce bugs or miss edge case scenarios?
+So, how can you speed up your development process without increasing the chance you are going to introduce more bugs or miss edge case scenarios?
 
-There are actually a few topics to speed up your development workflow, below I will provide a short summary for all the tips and tricks I use to speed up my development workflow. In other separate posts I will do a deep dive on the specific topic.
+There are actually a few tips and tricks I use to speed up my development workflow, below I will provide a short summary for all the tips and tricks. In other separate posts I will do a deep dive on the specific topic.
 
 ### Xcode templates
 Apple already provides quite some template for you. The default Swift template for example already adds an copyright header and imports Foundation. But, do you know that you can also make your own templates? If you are building features in a specific architecture you can make a template that already has some basic functionality in it. This way you write it once in your template and reuse it in every other features. Less typing, more code!
