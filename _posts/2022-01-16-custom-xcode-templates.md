@@ -2,7 +2,7 @@
 layout: post
 title: Custom Xcode templates
 author: Milan de Ruiter
-tags: ["Tools", "xcrun", "Alfred", "Git", "Xcode Templates", "Tips & Tricks"]
+tags: ["Tools", "Xcode Templates", "Tips & Tricks"]
 ---
 
 An easy way to automate the boring repetitive task to implement for example full VIP cycles is to make use of Xcode templates.
